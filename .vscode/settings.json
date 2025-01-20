@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VirtualTinga.sln"
+    "dotnet.defaultSolution": "ProjetoVirtualTinga.sln"
 }
