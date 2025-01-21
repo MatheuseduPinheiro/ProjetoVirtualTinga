@@ -55,7 +55,7 @@ public class ScenePainel : MonoBehaviour
             // Calcula o tempo levado com base no tempo restante
             timeTaken = 86400f - timer; // 86400 segundos é o tempo total
             statusGame = "Win";
-            SceneManager.LoadScene(6); // Carrega a cena de vitória
+            SceneManager.LoadScene(3); // Carrega a cena de vitória
         }
     }
 
@@ -81,7 +81,7 @@ public class ScenePainel : MonoBehaviour
             if (timer <= 0)
             {
                 statusGame = "GameOver";
-                SceneManager.LoadScene(5);
+                SceneManager.LoadScene(2);
             }
         }
     }
