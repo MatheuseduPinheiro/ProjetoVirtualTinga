@@ -1,2 +1,2 @@
 # ProjetoVirtualTinga
-Projeto de Iniciação Científica do Grupo de Pesquisa Escarlate financiado pelo CNPq em parceria com a UNAMA (Universidade da Amazônia). 
+Projeto de Iniciação Científica do Grupo de Pesquisa Escarlate (Universidade da Amazônia), financiado pelo CNPq, sob orientação do Prof. Dr. Mauro Margalho Coutinho
